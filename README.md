@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VlSHNU
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any kind of Basic Python Projects
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on any kind of Basic C# Projects
 - 📫 How to reach me ...
 
 <!---
