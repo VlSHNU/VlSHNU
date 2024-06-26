@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @VlSHNU
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on any kind of Basic C# Projects
-- 📫 How to reach me ...
+- 👋 Hi, I’m BATMAN
+- 👀 I’m interested in you 😏
+- 🌱 I’m currently learning life
+- 💞️ I’m looking to collaborate on your mom
+- 📫 How to reach me ... you don't.
 
 <!---
 VlSHNU/VlSHNU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
